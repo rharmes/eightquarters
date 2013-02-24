@@ -4,10 +4,12 @@ This blog is meant as a project to better learn git, Jekyll, and responsive desi
 
 The fonts I use are [Thirsty Rough](http://www.myfonts.com/fonts/yellow-design/thirsty-rough/) and [Proxima Nova Soft](http://www.myfonts.com/fonts/marksimonson/proxima-nova-soft/), both purchased from [MyFonts](http://www.myfonts.com/) and served as webfonts. The design and the responsive layout take obvious inspiration from Trent Walton and [his amazing site](http://trentwalton.com/).
 
-*Potential Posts*:
+**Potential Posts**:
 
 * Living with a Small Shop
+* Mistakes (jigsaw wander, running a router from right to left, "jointing" boards on the tablesaw, Titebond 3 drying dark brown, grain orientation)
 * The Shop Apron
+* The Joy of Forstner Bits
 * Dust Collection Behind a Wall
 * French Cleat Tool Storage
 * The Allure of the Pocket Screw
@@ -19,3 +21,6 @@ The fonts I use are [Thirsty Rough](http://www.myfonts.com/fonts/yellow-design/t
 * The Reference Section: Online
 * The Reference Section: Books
 * Imperially Metric
+* The Circular Saw: Probably the Right Tool for the Job (instead of a jigsaw, plunge cuts, instead of a handsaw, crosscuts for long boards, plywood)
+* Building an Air Cleaner
+* Building a Drill Press Table
