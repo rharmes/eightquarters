@@ -1,6 +1,6 @@
 ![Eight Quarters](https://raw.github.com/rharmes/eightquarters/gh-pages/images/readme-eightquarters.png)
 
-This blog is meant as a project to better learn git, Jekyll, and responsive design, as well as a chronicle of the hard mistakes I've made while learning to work with wood in my tiny basement shop.
+This blog is meant as a project to better learn git, Jekyll, and responsive design, as well as a chronicle of the hard mistakes I've made while learning to work with wood in my tiny basement shop. The name 8/4 (prounounced "eight quarters") refers to the [thickness of hardwood](http://en.wikipedia.org/wiki/Lumber#Hardwoods) when purchased at a lumberyard. 8 / 4 = 2, so an 8/4 board is two inches thick ([except when it isn't](http://www.woodworkerssource.com/blog/?p=1876)).
 
 The fonts I use are [Thirsty Rough](http://www.myfonts.com/fonts/yellow-design/thirsty-rough/) and [Proxima Nova Soft](http://www.myfonts.com/fonts/marksimonson/proxima-nova-soft/), both purchased from [MyFonts](http://www.myfonts.com/) and served as webfonts. The design and the responsive layout take obvious inspiration from Trent Walton and [his amazing site](http://trentwalton.com/).
 
