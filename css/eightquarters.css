@@ -541,9 +541,17 @@ s *
 /* -------------------------------------------------------------------------------- */
 
 body {
+	background: #f6e7de;
 	font-family: 'ProximaNovaSoft-Regular', sans;
+	color: #3d3a37;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5, h6 {
 	font-family: 'ThirstyRoughRegTwo', sans;
+	font-weight: normal;
+}
+
+header h1 {
+	font-size: 6em;
+	color: #ff5889;
 }
