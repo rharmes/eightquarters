@@ -537,13 +537,18 @@ s *
 
 
 /* -------------------------------------------------------------------------------- */
-/* Actual CSS for the page. Finally! */
+/* Actual CSS for the page. Finally!
+/* Colors:
+/*     Red: #ff3634
+/*     Blue: #17a1c9
+/*     Brown: #481a02
+/*     Off-white: #f6e7de
 /* -------------------------------------------------------------------------------- */
 
 body {
 	background: #f6e7de;
 	font-family: 'ProximaNovaSoft-Regular', sans;
-	color: #3d3a37;
+	color: #481a02;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -551,7 +556,12 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: normal;
 }
 
+a:link, a:visited, a:active, a:hover {
+	color: #ff3634;
+	text-decoration: none;
+}
+
 header h1 {
 	font-size: 6em;
-	color: #ff5889;
+	color: #ff3634;
 }
